@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/arjunkdot/intro-section-with-dropdown-navigation-solution)
-- Live Site URL: [Add live site URL here](https://arjunkdot.github.io/intro-section-with-dropdown-navigation-solution/)
+- Solution URL: [Solution](https://github.com/arjunkdot/intro-section-with-dropdown-navigation-solution)
+- Live Site URL: [Live URL](https://arjunkdot.github.io/intro-section-with-dropdown-navigation-solution/)
 
 ## My process
 
