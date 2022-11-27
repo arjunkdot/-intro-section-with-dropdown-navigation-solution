@@ -360,7 +360,6 @@ main {
     align-items: flex-start;
     flex-direction: column;
     margin-bottom: 1.2rem;
-    gap: 1.5rem;
   }
   .main-nav > * {
     margin-bottom: 1.5rem;
@@ -373,6 +372,9 @@ main {
   }
   .user-nav {
     flex-direction: column;
+  }
+  .user-nav > *{
+    margin-right: 0rem;
   }
   .user-nav__item {
     width: 100%;
