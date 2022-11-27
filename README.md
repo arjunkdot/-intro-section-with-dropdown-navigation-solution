@@ -45,5 +45,5 @@ Users should be able to:
 - JQuery
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/arjunkdot)
-- Twitter - [@yourusername](https://www.twitter.com/arjunkdot)
+- Frontend Mentor - [@arjunkdot](https://www.frontendmentor.io/profile/arjunkdot)
+- Twitter - [@arjunkdot](https://www.twitter.com/arjunkdot)
